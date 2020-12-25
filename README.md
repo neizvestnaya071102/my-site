@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 <html lang="en" dir="ltr">
@@ -1041,3 +1042,6 @@ img[src="people.gif"]{width:310px;
   <div class="files">
   Файлы
   </div>
+=======
+# my-site
+>>>>>>> parent of 0525361... Update README.md
